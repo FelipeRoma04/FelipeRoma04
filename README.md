@@ -1,4 +1,4 @@
-# 👋 Hi there! I'm Juan Felipe Espitia Bello
+# 👋 Hi there! I'm Juan Felipe Bello
 
 ## 🚀 Technical Profile
 
