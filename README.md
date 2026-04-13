@@ -6,10 +6,9 @@
 
 *Full-Stack · DevOps · Cloud · Microsoft 365 · AI & Data · Bogotá, Colombia 🇨🇴*
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-111317?style=for-the-badge&logo=github&logoColor=white)](https://feliperoma04.github.io/portfolioJuanFelipeBello/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/juan-felipe-b-a30a44213)
-[![Portfolio](https://img.shields.io/badge/Portfolio-111317?style=for-the-badge&logo=github&logoColor=white)](https://FelipeRoma04.github.io/portfolioJuanFelipeBello/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:juanfelipebello2006@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/573155951128)
 
 </div>
 
@@ -19,9 +18,9 @@
 
 I'm a **Software Developer and IT Infrastructure Specialist** with **2+ years of professional experience** designing, implementing, and leading technological solutions that drive **digital transformation** and operational efficiency.
 
-I've built IT departments from scratch, delivered production enterprise software, led full **Microsoft 365** migrations, and integrated **AI tools** and **data analysis workflows** into real business operations. I'm currently pursuing a **B.Sc. in Systems Engineering** at Fundación Universitaria Konrad Lorenz.
+I have built IT departments from scratch, delivered production enterprise software, led full **Microsoft 365** migrations, and integrated **AI tools** and **data analysis workflows** into real business operations. Currently pursuing a **B.Sc. in Systems Engineering** at Fundación Universitaria Konrad Lorenz.
 
-> 🔁 Always learning &nbsp;|&nbsp; ⚙️ Infrastructure + Dev mindset &nbsp;|&nbsp; 🧠 Strategic technology builder
+> ⚙️ Infrastructure + Dev mindset &nbsp;|&nbsp; 🧠 Strategic technology builder &nbsp;|&nbsp; 🔁 Always learning
 
 ---
 
@@ -53,6 +52,7 @@ I've built IT departments from scratch, delivered production enterprise software
 ### ☁️ AI, Automation & Microsoft 365
 ![Microsoft 365](https://img.shields.io/badge/Microsoft_365-D83B01?style=for-the-badge&logo=microsoft&logoColor=white)
 ![SharePoint](https://img.shields.io/badge/SharePoint-0078D4?style=for-the-badge&logo=microsoftsharepoint&logoColor=white)
+![Entra ID](https://img.shields.io/badge/Entra_ID-0078D4?style=for-the-badge&logo=microsoftentra&logoColor=white)
 ![Power Automate](https://img.shields.io/badge/Power_Automate-0066FF?style=for-the-badge&logo=microsoftpowerautomate&logoColor=white)
 ![Power Apps](https://img.shields.io/badge/Power_Apps-742774?style=for-the-badge&logo=microsoftpowerapps&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
@@ -63,29 +63,7 @@ I've built IT departments from scratch, delivered production enterprise software
 ![Windows Server](https://img.shields.io/badge/Windows_Server-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
 ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-228B22?style=for-the-badge&logo=securityscorecard&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
----
-
-## 💼 Professional Experience
-
-### 🔹 IT Analyst — Sierra Alta SAS *(2024 – Present)*
-- Lead the entire IT area: infrastructure, software development, security, digital transformation, and data strategy
-- Designed and led the company's full **digital transformation**: AI tool integration, Power Automate/Power Apps automation, SQL + Power BI data pipelines
-- Built enterprise desktop applications in **C# / .NET / SQL Server** with 3-tier architecture
-- Developed the corporate production website with **React 18**, Tailwind CSS, Framer Motion, and React Router
-- Containerization with **Docker**; full **Microsoft 365** ecosystem administration (Exchange Online, SharePoint, Entra ID, Intune, Defender)
-- Infrastructure management: Windows Server, Linux, LAN/WAN networks, backups, continuity planning
-
-### 🔹 IT Services Technician — Sierra Alta SAS *(2023 – 2024)*
-- Built the IT Department from scratch: procedures, documentation, asset inventories, and workflows
-- Led full organizational migration to **Microsoft 365**: planning, execution, user training, and post-migration support
-- Implemented first **Power Automate** workflows that eliminated key manual processes
-
-### 🔹 Software & Networks Technician — Universitaria de Colombia *(2023)*
-- Systems administration, network management, connectivity incident resolution
-- Web development with JavaScript, React, Python, and PHP
-- Co-founded the institutional **Tech Consulting Office**
+![DevOps / Git](https://img.shields.io/badge/DevOps_/_Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
@@ -93,10 +71,10 @@ I've built IT departments from scratch, delivered production enterprise software
 
 | Project | Stack | Description |
 |---------|-------|-------------|
-| 🛢️ **Drilling Fluids Intelligence** | C# · .NET 8 · WPF · SQL Server · MVVM | High-complexity desktop platform for the drilling fluids industry. Wellbore geometry, volume balance, pressure drop, rig profiles, inventory & exportable reports. *(Confidential / NDA)* |
-| 🌐 **Sierra Alta SAS — Corporate Website** | React 18 · Tailwind CSS · Framer Motion · Leaflet | Full production SPA at [sierraalta.com.co](https://sierraalta.com.co) — multilingual (i18n), interactive maps, embedded PDF viewer |
-| 🗂️ **markErp — Enterprise Desktop ERP** | C# · .NET · MySQL · 3-tier Architecture | Desktop ERP with HR, Contracts, Attendance, Departments & Inventory modules — KPI dashboard, exportable reports, role-based permissions |
-| 📊 **markCtTower — BI Dashboard** | React · Node.js · Express · Prisma · SQLite · Chart.js | Full-stack business intelligence dashboard — interactive charts, PDF/Excel export, REST API backend |
+| 🛢️ **Drilling Fluids Intelligence** | C# · .NET 8 · WPF · SQL Server · MVVM · LiveCharts | High-complexity desktop platform for the drilling fluids industry — wellbore geometry, volume balance, pressure drop, rig profiles, inventory & exportable reports *(Confidential / NDA)* |
+| 🌐 **Sierra Alta SAS — Corporate Website** | React 18 · Tailwind CSS · Framer Motion · React Router · Leaflet · EmailJS | Full production SPA at [sierraalta.com.co](https://sierraalta.com.co) — multilingual (i18n), interactive maps, embedded PDF viewer, full responsive design |
+| 🗂️ **markErp — Enterprise Desktop ERP** | C# · .NET · MySQL · 3-tier Architecture | Desktop ERP with HR, Contracts, Attendance, Departments & Inventory modules — KPI dashboard, exportable reports, role-based permissions for SMEs |
+| 📊 **markCtTower — BI Dashboard** | React · Node.js · Express · Prisma · SQLite · Chart.js · Vite | Full-stack business intelligence dashboard — interactive charts, PDF/Excel export, REST API backend with Prisma ORM |
 | 📦 **hiperInventorySolutions** | Java · Spring Boot · MySQL | Comprehensive inventory management: stock control, inbound/outbound tracking, detailed reports |
 | 🛒 **mercadoRed — Marketplace** | Java · Spring Boot · JSP · MySQL · MVC | Web-based e-commerce platform with MVC architecture and normalized database model (8+ tables) |
 
@@ -148,7 +126,7 @@ I've built IT departments from scratch, delivered production enterprise software
 
 **Let's build something great together 🚀**
 
-[![Portfolio](https://img.shields.io/badge/View_Portfolio-111317?style=for-the-badge&logo=github&logoColor=white)](https://FelipeRoma04.github.io/portfolioJuanFelipeBello/)
+[![Portfolio](https://img.shields.io/badge/View_Portfolio-111317?style=for-the-badge&logo=github&logoColor=white)](https://feliperoma04.github.io/portfolioJuanFelipeBello/)
 [![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/juan-felipe-b-a30a44213)
 
 </div>
